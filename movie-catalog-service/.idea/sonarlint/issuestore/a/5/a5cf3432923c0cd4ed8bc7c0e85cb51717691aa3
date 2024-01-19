@@ -1,0 +1,15 @@
+
+V	java:S1251"<This block of commented-out lines of code should be removed.(Ø›«¾ùÿÿÿÿ
+i
+java:S16022"SRemove useless curly braces around statement and then remove useless return keyword(Ä¨•
+Q	java:S1254"<This block of commented-out lines of code should be removed.(µ¾Èâ
+v
+java:S1128"[Remove this unused import 'com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand'.(şÌ—êşÿÿÿÿ
+f
+java:S1128"KRemove this unused import 'io.javabrains.moviecatalogservice.models.Movie'.(€±»Éûÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'io.javabrains.moviecatalogservice.models.Rating'.(İÓÑØûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
